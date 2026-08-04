@@ -1,0 +1,17 @@
+PRODUÇÕES DIGITAIS — VERSÃO OTIMIZADA
+
+Melhorias:
+- Imagens convertidas para WebP
+- Largura máxima das imagens: 1600 px
+- Qualidade WebP: 78%
+- Lazy loading nas imagens fora do topo
+- Imagens do topo com carregamento prioritário
+- HTML e CSS minificados
+- Arquivos não utilizados removidos
+
+Peso das imagens:
+Antes: 11.52 MB
+Depois: 2.27 MB
+Redução: 80.3%
+
+Mantenha index.html, style.css, script.js e a pasta assets juntos.
